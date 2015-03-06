@@ -14,7 +14,6 @@
 		B64B5A351AA786CD0076DF90 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = B64B5A331AA786CD0076DF90 /* LaunchScreen.xib */; };
 		B64B5A411AA786CD0076DF90 /* Pitch_PerfectTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B64B5A401AA786CD0076DF90 /* Pitch_PerfectTests.swift */; };
 		B64B5A4B1AA9348F0076DF90 /* PlaySoundsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B64B5A4A1AA9348F0076DF90 /* PlaySoundsViewController.swift */; };
-		B64B5A4D1AA937890076DF90 /* movie_quote.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = B64B5A4C1AA937890076DF90 /* movie_quote.mp3 */; };
 		B64B5A4F1AA948040076DF90 /* RecordedAudio.swift in Sources */ = {isa = PBXBuildFile; fileRef = B64B5A4E1AA948040076DF90 /* RecordedAudio.swift */; };
 /* End PBXBuildFile section */
 
@@ -40,7 +39,6 @@
 		B64B5A3F1AA786CD0076DF90 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		B64B5A401AA786CD0076DF90 /* Pitch_PerfectTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Pitch_PerfectTests.swift; sourceTree = "<group>"; };
 		B64B5A4A1AA9348F0076DF90 /* PlaySoundsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = PlaySoundsViewController.swift; path = ../PlaySoundsViewController.swift; sourceTree = "<group>"; };
-		B64B5A4C1AA937890076DF90 /* movie_quote.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = movie_quote.mp3; sourceTree = "<group>"; };
 		B64B5A4E1AA948040076DF90 /* RecordedAudio.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RecordedAudio.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -89,7 +87,6 @@
 				B64B5A4A1AA9348F0076DF90 /* PlaySoundsViewController.swift */,
 				B64B5A2E1AA786CD0076DF90 /* Main.storyboard */,
 				B64B5A311AA786CD0076DF90 /* Images.xcassets */,
-				B64B5A4C1AA937890076DF90 /* movie_quote.mp3 */,
 				B64B5A331AA786CD0076DF90 /* LaunchScreen.xib */,
 				B64B5A281AA786CD0076DF90 /* Supporting Files */,
 			);
@@ -201,7 +198,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				B64B5A4D1AA937890076DF90 /* movie_quote.mp3 in Resources */,
 				B64B5A301AA786CD0076DF90 /* Main.storyboard in Resources */,
 				B64B5A351AA786CD0076DF90 /* LaunchScreen.xib in Resources */,
 				B64B5A321AA786CD0076DF90 /* Images.xcassets in Resources */,
